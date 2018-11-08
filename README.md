@@ -5,3 +5,6 @@ Created an ID3 Decision Tree from scratch using Python
 ![program 2](https://github.com/HM-Li/ID3-Decision-Tree-from-scratch/blob/master/decisionTree_Description.png)  
 ![program 2](https://github.com/HM-Li/ID3-Decision-Tree-from-scratch/blob/master/Inspect_Description_2.png)  
 ![program 2](https://github.com/HM-Li/ID3-Decision-Tree-from-scratch/blob/master/Inspect_Description_3.png)  
+
+## Reference
+10-601 Introduction to Machine Learning (Fall 2018)
